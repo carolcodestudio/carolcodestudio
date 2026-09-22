@@ -1,49 +1,75 @@
-# Hi, I'm Caroline 👋
+# 👩‍💻 Caroline Prux
 
-💻 Front-End Developer  
-🎓 Computer Science student  
-🌎 Building modern websites for businesses
+### Desenvolvedora Full Stack | Estudante de Ciência da Computação
 
----
+Olá! Eu sou a Caroline Prux da Silva, tenho 19 anos e sou natural do Rio Grande do Sul.
 
-## About me
+🎓 Atualmente, curso Ciência da Computação na Unopar.
 
-I'm a Front-End Developer focused on creating modern, responsive and user-friendly websites.
-
-I create websites for businesses, professionals and entrepreneurs who want a stronger online presence.
+💻 Sou apaixonada por tecnologia e estou em busca de uma oportunidade para desenvolver minhas habilidades, adquirir experiência profissional e participar de projetos que contribuam para o meu crescimento na área de tecnologia.
 
 ---
 
-## Technologies
+## 🚀 Sobre mim
 
-💻 HTML  
-🎨 CSS  
-⚡ JavaScript  
-⚛️ React  
-🔧 Git  
-🐙 GitHub
-
----
-
-## Projects
-
-🚀 CarolCode Studio
-
-My goal is to create modern websites with clean design, good performance and great user experience.
+- 🎓 Estudante de Ciência da Computação
+- 💻 Interessada em Desenvolvimento Full Stack
+- 📚 Sempre buscando aprender e evoluir
+- 🚀 Em busca da minha primeira experiência profissional na área de tecnologia
+- 🇧🇷 Brasil
 
 ---
 
-## Services
+## 🛠️ Tecnologias
 
-✔ Landing Pages  
-✔ Business Websites  
-✔ Portfolio Websites  
-✔ Website Maintenance
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
 
 ---
 
-## Contact
+## 📂 Projetos
 
-LinkedIn: (coloque seu link depois)
+### 🌐 Barbershop Website
 
-Portfolio: Coming soon 🚀
+Projeto de desenvolvimento web criado para apresentar uma solução profissional para uma barbearia.
+
+🔗 [Acessar projeto](https://carolcodestudio.github.io/barbershop-website/)
+
+---
+
+### 💻 CarolCode Studio
+
+Projeto relacionado à minha identidade profissional e aos serviços de tecnologia que estou desenvolvendo.
+
+---
+
+## 📚 Atualmente estudando
+
+- Algoritmos e Estruturas de Dados
+- Desenvolvimento de Software
+- Lógica e Matemática Computacional
+- Desenvolvimento Web
+- Git e GitHub
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é continuar evoluindo como desenvolvedora, construir projetos cada vez mais completos e conquistar oportunidades profissionais na área de tecnologia.
+
+---
+
+## 📫 Entre em contato
+
+📧 **E-mail:** carol.trabalho2026@gmail.com
+
+💼 **LinkedIn:** [Caroline Prux](https://www.linkedin.com/in/caroline-prux-0031ba323/)
+
+🐙 **GitHub:** [Caroline Prux](https://github.com/caroltrabalho2026-cloud)
+
+---
+
+⭐ Obrigada por visitar meu perfil!
